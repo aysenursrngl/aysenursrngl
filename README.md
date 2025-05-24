@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @aysenursrngl
-- 👀 I’m interested in AI and innovation
-- 🌱 I’m currently learning LLMs
-- 💞️ I’m looking to collaborate on PM
-- 📫 How to reach me aysenur.serengil@helsinki.fi
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: an old mathematician
+👋 Hi, I’m @aysenursrngl
+🤖 Passionate about AI, LLMs, and frontier innovation
+🚀 Currently building with large language models and applied machine intelligence
 
 <!---
 aysenursrngl/aysenursrngl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
